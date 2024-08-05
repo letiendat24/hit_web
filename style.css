@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.text1, .text2, .text3, .text4, .text5 {
+    color: orange;
+    font-weight: 900;
+    font-size: 40vh;
+    row-gap: 20px;
+    column-gap: 20px;
+}
+
+
